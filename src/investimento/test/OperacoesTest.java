@@ -1,4 +1,4 @@
-package br.com.fiap.investimento.test;
+package investimento.test;
 
 import br.com.fiap.investimento.business.OperacoesInstitucionaisBusiness;
 import br.com.fiap.investimento.business.OperacoesPFBusiness;

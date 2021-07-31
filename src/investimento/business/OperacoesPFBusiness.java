@@ -1,4 +1,4 @@
-package br.com.fiap.investimento.business;
+package investimento.business;
 
 public class OperacoesPFBusiness extends OperacoesBusiness {
 

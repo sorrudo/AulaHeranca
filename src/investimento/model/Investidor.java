@@ -1,4 +1,4 @@
-package br.com.fiap.investimento.model;
+package investimento.model;
 
 import java.util.Date;
 

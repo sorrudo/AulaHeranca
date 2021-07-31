@@ -1,4 +1,4 @@
-package br.com.fiap.investimento.reports;
+package investimento.reports;
 
 public interface Report {
 

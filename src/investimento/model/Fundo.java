@@ -1,4 +1,4 @@
-package br.com.fiap.investimento.model;
+package investimento.model;
 
 public class Fundo {
 
